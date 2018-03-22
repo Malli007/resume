@@ -1,0 +1,49 @@
+{
+  "career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+},
+"education":[
+  {
+    "degree":"s.s.c",
+    "school":"bhashyam high school",
+    "data":["2013","9"]
+  },
+  {
+    "degree":"inter",
+    "school":"sri chaithanya",
+    "data":["2015","87.9%"]
+  },
+  {
+    "degree":"B.Tech",
+    "school":"GPCET",
+    "data":["2015-2019","65%"]
+  }
+],
+"skills":[
+    {
+      "name":"Languages",
+      "info":["R","C#","Java","Python","C++","C","Php"]
+    },
+    {
+      "name":"Operating System",
+      "info":["win-10","Fedora","redHat","ubuntu"]
+    },
+    {
+      "name":"Data Bases",
+      "info":["MySql","mongoDB","oracle","PDO"]
+    },
+    {
+      "name":"Web Technologies",
+      "info":["HTML","JavaScript","CSS"]
+    },
+    {
+      "name":"FrameWorks",
+      "info":[".Net","Bootstrap","CodeIgniter"]
+    },
+    {
+      "name":"Libraries",
+      "info":["Jquery"]
+    }
+
+  ]
+}
